@@ -17,3 +17,8 @@ Thumbs.db
 
 # PHP
 .phpunit.cache/
+
+#criado para o composer
+/vendor/
+composer.phar
+.env
